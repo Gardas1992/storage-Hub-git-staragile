@@ -1,2 +1,4 @@
-this is my first git file. changes has been added
-test code has been added.
+<<<<<<< HEAD
+code change has been done by both the users
+ 
+>>>>>>> cbd3105dd6698e72453573ab4321703a34316ea3
